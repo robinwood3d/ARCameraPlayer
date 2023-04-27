@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# 打包文件夹
+Packaged/*
+
+# WebUI插件
+Plugins/WebUI/*
+Plugins/JsonLibrary/*
